@@ -44,31 +44,6 @@ overthewire-wargames/
 - **Python/Bash** para scripts de automatización
 - **GDB y pwntools** para explotación de binarios
 
-## 📖 Plantilla para Niveles
-```md
-# Wargame - Nivel XX
-
-## 🔍 Descripción del reto
-(Explicación breve sobre el objetivo y la dificultad del nivel.)
-
-## 🛠️ Comandos utilizados
-```bash
-(comandos específicos usados para resolver el reto)
-```
-
-## 🎯 Solución paso a paso
-1. **Paso 1**: Descripción detallada.
-2. **Paso 2**: Comando usado y explicación.
-3. **Paso 3**: Resultado esperado.
-
-## 🔑 Credenciales para el siguiente nivel
-**Usuario:** xxxx  
-**Contraseña:** xxxx  
-
-## 📝 Notas y aprendizaje
-- (Apuntes adicionales sobre lo aprendido y posibles variaciones del reto.)
-```
-
 ## 🔥 Contribuciones
 Si quieres colaborar o mejorar el contenido, ¡bienvenido! Puedes hacer un fork o abrir un pull request. 🚀
 
